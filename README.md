@@ -1,8 +1,7 @@
 <div align="center">
       <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
 
-      !(https://github.com/user-attachments/assets/c9eca44b-24e3-4276-bef1-f7a458a97f0e)
-)
+     
 
  
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -49,5 +48,5 @@ npm install
 npm run dev
 ```
 
-LIVE-LINK: https://iphone-gsap-black.vercel.app/
+LIVE-LINK: [https://iphone-gsap-black.vercel.app/](https://iphone-gsap-ten.vercel.app/)
 
